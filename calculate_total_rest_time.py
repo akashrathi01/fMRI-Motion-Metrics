@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # === User-defined parameters ===
-fmriprep_dir = '/gpfs/projects/b1108/studies/RADAR/data/preprocessed/fmriprep_nofmap'
+fmriprep_dir = 'YOUR/fMRIPREP/DATA'
 TR = 0.555  # seconds per TR
 
 # Resting-state runs to include
