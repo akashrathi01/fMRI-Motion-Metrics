@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-fmriprep_dir = '/projects/b1108/studies/RADAR/data/preprocessed/fmriprep_nofmap'
+fmriprep_dir = 'YOUR/fMRIPrep/Data'
 
 runs = [
     ('mid', 'run-01'),
